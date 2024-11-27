@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyActivityRoomDB</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="person_name">Person Name</string>
+    <string name="save">Save</string>
+    <string name="city">City</string>
+    <string name="PersonAge">personAge</string>
+    <string name="PersonName">PersonName</string>
+    <string name="PersonCity">PersonCity</string>
+    <string name="Save">Save</string>
+</resources>
